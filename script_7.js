@@ -10,7 +10,7 @@ function bot(){
     if (choice[choice.length - 1] === "?" ){
       console.log("ouais ouais..");
     } else if (choice === choice.toUpperCase() && choice){
-      console.log("Wow calme toi mon petit bohnome !");
+      console.log("Wow calme toi mon petit bonhomme !");
     } else if (choice.indexOf("Fortnite") !== -1){
       console.log("On ce fait une partie ?");
     } else if (choice.length === 0){
